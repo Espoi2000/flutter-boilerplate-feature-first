@@ -1,0 +1,9 @@
+{
+  
+  "@@locale" : "en",
+  "@helloWorld" : {
+    "description" : "Le salut conventionnel du programmeur nouveau-né"
+  },
+  
+  "findyoumarket":"find your market"
+}
